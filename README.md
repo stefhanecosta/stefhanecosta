@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá! Eu sou a Stefhane Costa.
 
-<!--
-**stefhanecosta/stefhanecosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 Estudante de Engenharia da Computação
 
-Here are some ideas to get you started:
+🚀 Habilidades:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python | SQL | Power BI 
+
+### 📊 GitHub Stats:
+<div>
+  <a href="https://github.com/stefhanecosta">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stefhanecosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefhanecosta&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
+### 🌎 Onde me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/stefhane-costa-3443a3238)
+
