@@ -1,10 +1,7 @@
 ## Olá! Eu sou a Stefhane Costa.
 
 - 👩‍💻 Estudante de Engenharia da Computação
-
-🚀 Habilidades:
-
-- Python | SQL | Power BI 
+ 
 
 ### 📊 GitHub Stats:
 <div>
